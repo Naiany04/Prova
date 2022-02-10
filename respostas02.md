@@ -3,3 +3,6 @@ O que é pull request?
 
 O que é fork?
 O Fork serve para copiar um arquivo do perfil de outro usuário para o seu.
+
+O que é VCS?
+Software de controle de versão.
