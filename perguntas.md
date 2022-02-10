@@ -13,3 +13,6 @@ Questão 4- O que é Merge?
 
 Questão 5- O que é pull?
 O pull serve para trazer as alterações do repositório remoto para o repositório local.
+
+Questão 6- O que é branch?
+É a ramificação dos repositórios.
